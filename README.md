@@ -1,2 +1,2 @@
-# command-ping
-Hello ! It's a comand ping for Discord JS BOT
+# Commands for your BOT Discord !
+Hello ! I suggest BOT Discord commands
